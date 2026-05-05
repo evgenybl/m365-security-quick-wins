@@ -41,7 +41,7 @@ Tick each box as you complete it. Repeat the full pass quarterly.
 
 - [ ] Verified
 
-**Where:** Entra ID > Protection > Conditional Access
+**Where:** Microsoft Entra admin center (entra.microsoft.com) > Entra ID > Conditional Access > Policies
 **What to check:** A policy exists that blocks legacy authentication protocols for all users.
 **What "good" looks like:** A CA policy blocking legacy auth for all users, with status set to On (not Report-only).
 
